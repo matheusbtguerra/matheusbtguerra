@@ -1,15 +1,13 @@
 <div>
     <div style="display: flex;">
-        <div>
-            <img src="https://github.com/matheusbtguerra/matheusbtguerra/assets/146946503/1007d9fb-61df-4c0f-a33a-286df785da26" width="370px" height="420px"> </img>
-        </div>
+        
+        <img src="https://github.com/matheusbtguerra/matheusbtguerra/assets/146946503/1007d9fb-61df-4c0f-a33a-286df785da26" width="370px"height="420px"> </img>
+        
 
-        <div>
+        <p>
             ## 𝑶𝒍𝒂́ 𝒎𝒖𝒏𝒅𝒐!🌎 𝘔𝘦𝘶 𝘯𝘰𝘮𝘦 𝘦́ 𝘔𝘢𝘵𝘩𝘦𝘶𝘴 𝘎𝘶𝘦𝘳𝘳𝘢, 𝘴𝘰𝘶 𝘶𝘮 𝘫𝘰𝘷𝘦𝘮 𝘦𝘴𝘵𝘶𝘥𝘢𝘯𝘵𝘦 𝘦 𝘦𝘴𝘵𝘰𝘶 𝘳𝘦𝘢𝘭𝘪𝘻𝘢𝘯𝘥𝘰 𝘶𝘮 𝘤𝘶𝘳𝘴𝘰 𝘥𝘦 𝘗𝘳𝘰𝘨𝘢𝘮𝘢𝘤̧𝘢̃𝘰 𝘞𝘦𝘣 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘯𝘰 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘰 𝘥𝘢 𝘖𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘥𝘢𝘥𝘦 𝘚𝘰𝘤𝘪𝘢𝘭 (𝘐𝘖𝘚).
             <br>
             ## 𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅!🌎 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘔𝘢𝘵𝘩𝘦𝘶𝘴 𝘎𝘶𝘦𝘳𝘳𝘢, 𝘐'𝘮 𝘢 𝘺𝘰𝘶𝘯𝘨 𝘴𝘵𝘶𝘥𝘦𝘯𝘵, 𝘢𝘯𝘥 𝘐'𝘮 𝘵𝘢𝘬𝘪𝘯𝘨 𝘢 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘤𝘰𝘶𝘳𝘴𝘦 𝘢𝘵 𝘵𝘩𝘦 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘰 𝘥𝘢 𝘖𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘥𝘢𝘥𝘦 𝘚𝘰𝘤𝘪𝘢𝘭 (𝘐𝘖𝘚).
-
-        </div>
-
-    </div>
+        </p>
+        
 </div>
