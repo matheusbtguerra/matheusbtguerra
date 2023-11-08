@@ -25,13 +25,12 @@ Encontre-me: <a href="www.instagram.com/matheusbtguerra">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Meu nome é Matheus Guerra e estou finalizando o último ano do ensino médio e juntamente com isso estou realizando um curso de Progamação Web Full-Stack no Instituto da Oportunidade Social (IOS). Tenho facilidade para aprender novas habilidades, compreender novos assuntos, trabalhar em equipe. Minha meta profissional é ser programador e trabalhar na área da tecnologia.
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: ** Aprendizado e formação profissional**
+  🦄 Objetivo: Aprendizado e formação profissional
 </p>
 
 
