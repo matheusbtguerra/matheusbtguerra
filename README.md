@@ -31,13 +31,8 @@ Encontre-me: <a href="www.instagram.com/matheusbtguerra">
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: ** Aprendizado e formação profissional**
 </p>
-
-<p align="left">
-</p>
-
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
 
 
 <p align="left">
