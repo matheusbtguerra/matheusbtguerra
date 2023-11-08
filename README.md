@@ -16,7 +16,7 @@
 
 <div align="left">
   
-<a href="https://github.com/MarquinCss/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbtguerra&layout=compact&theme=dark&hide_border=true" /></a> 
+<a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbtguerra&layout=compact&theme=dark&hide_border=true" /></a> 
 
 
 
@@ -29,6 +29,8 @@
 <br> <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<img src="https://w7.pngwing.com/pngs/855/531/png-transparent-gengar-funny-monster-thumbnail.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 𝑷𝑻-𝑩𝑹 <br>
