@@ -4,7 +4,7 @@
 
 ![image](https://github.com/matheusbtguerra/matheusbtguerra/assets/146946503/77fe2660-83f7-4d70-97fc-9f08338249cd) ![image](https://github.com/matheusbtguerra/matheusbtguerra/assets/146946503/db88366c-f9cc-4535-a800-43402f7618d2)
 
-Encontre-me: <a href="https://www.instagram.com/matheusbtguerra/?next=%2F"> 
+Encontre-me: <a href="https://www.instagram.com/matheusbtguerra/"> 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/146946503/279700376-cc78fe83-b1bd-40c1-b237-50517d60cdbe.png"> </img> 
 </a>
 
