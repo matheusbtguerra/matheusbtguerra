@@ -31,8 +31,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <img src="https://github.com/matheusbtguerra/matheusbtguerra/assets/146946503/938a9785-0053-426a-8d6b-1ffc0d32ae88
-" > <br> 
+  ![image](https://github.com/matheusbtguerra/matheusbtguerra/assets/146946503/0e409671-fe4a-4fed-94be-85b7a833e917)
+
+  <br> 
 Meu nome é Matheus Guerra, e estou concluindo o último ano do ensino médio, ao mesmo tempo que estou fazendo um curso de Programação Web Full-Stack no Instituto da Oportunidade Social (IOS). Tenho facilidade para aprender novas habilidades, compreender novos assuntos e trabalhar em equipe. Minha meta profissional é me tornar um programador e trabalhar na área de tecnologia.
 </p>
 
