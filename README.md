@@ -43,7 +43,8 @@ Meu nome é Matheus Guerra, e estou concluindo o último ano do ensino médio, a
 <p align="left">
   💌 Navegue à vontade pelo perfil.
 </p>
-
+<br>
+_________________________________________________________________________________________________
 <p align="left"> 
   My name is Matheus Guerra, and I'm in the final year of high school. Alongside this, I'm currently taking a Full-Stack Web Programming course at the Instituto da Oportunidade Social (IOS). I have a knack for learning new skills, grasping new subjects, and working as part of a team. My professional goal is to become a programmer and work in the technology field.
 </p>
