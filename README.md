@@ -32,7 +32,7 @@
 
 <p align="left"> 
   <img src="https://github.com/matheusbtguerra/matheusbtguerra/assets/146946503/cccd92f7-d8e3-4613-97bc-42e691722a2b)
-"> </img>
+" width="30px" height="18">
 Meu nome é Matheus Guerra, e estou concluindo o último ano do ensino médio, ao mesmo tempo que estou fazendo um curso de Programação Web Full-Stack no Instituto da Oportunidade Social (IOS). Tenho facilidade para aprender novas habilidades, compreender novos assuntos e trabalhar em equipe. Minha meta profissional é me tornar um programador e trabalhar na área de tecnologia.
 </p>
 
