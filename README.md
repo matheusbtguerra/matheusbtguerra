@@ -22,7 +22,7 @@
   <p> 𝑭𝒊𝒏𝒅 𝒎𝒆 𝒉𝒆𝒓𝒆!</p> 
   <p>☟☟☟</p>
   <div style="display: inline_block"> 
-    <a href="https://instagram.com/matheusbtguerra?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/matheusbtguerra_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://open.spotify.com/user/r6rz8k8gp3co4bctboy44ibvk?si=_hK0WACYSh-v4B8mWBI8Xw"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/matheus-borges-de-toledo-guerra-2482522b3/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
