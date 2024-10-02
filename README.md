@@ -1,6 +1,6 @@
 
  <h2 align="center">𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅!🌎</h2>
-<p align="center">𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘔𝘢𝘵𝘩𝘦𝘶𝘴 𝘎𝘶𝘦𝘳𝘳𝘢 𝘢𝘯𝘥 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘜𝘯𝘪𝘙𝘪𝘵𝘵𝘦𝘳. 𝘈𝘥𝘥𝘪𝘵𝘪𝘰𝘯𝘢𝘭𝘭𝘺, 𝘐'𝘮 𝘵𝘢𝘬𝘪𝘯𝘨 𝘢 𝘍𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘤𝘰𝘶𝘳𝘴𝘦 𝘢𝘵 𝘵𝘩𝘦 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘰 𝘥𝘢 𝘖𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘥𝘢𝘥𝘦 𝘚𝘰𝘤𝘪𝘢𝘭 (𝘐𝘖𝘚). 𝘐 𝘩𝘢𝘷𝘦 𝘢 𝘬𝘯𝘢𝘤𝘬 𝘧𝘰𝘳 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘐 𝘭𝘰𝘷𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 𝘯𝘦𝘸 𝘴𝘬𝘪𝘭𝘭𝘴. 𝘔𝘺 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘨𝘰𝘢𝘭 𝘪𝘴 𝘵𝘰 𝘣𝘦𝘤𝘰𝘮𝘦 𝘢𝘯 𝘦𝘹𝘤𝘦𝘭𝘭𝘦𝘯𝘵 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳 𝘢𝘯𝘥 𝘸𝘰𝘳𝘬 𝘪𝘯 𝘵𝘩𝘦 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘧𝘪𝘦𝘭𝘥.</p>
+<p align="center">𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘔𝘢𝘵𝘩𝘦𝘶𝘴 𝘎𝘶𝘦𝘳𝘳𝘢, 𝘐'𝘮 18 𝘺𝘦𝘢𝘳𝘴 𝘰𝘭𝘥 𝘢𝘯𝘥 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘜𝘯𝘪𝘙𝘪𝘵𝘵𝘦𝘳. 𝘐 𝘨𝘳𝘢𝘥𝘶𝘢𝘵𝘦𝘥 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘚𝘰𝘤𝘪𝘢𝘭 𝘖𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘺 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘪𝘯 𝘍𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘵𝘢𝘬𝘪𝘯𝘨 𝘱𝘢𝘳𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘎𝘦𝘳𝘢𝘤̧𝘢̃𝘰 𝘊𝘢𝘭𝘥𝘦𝘪𝘳𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮 𝘪𝘯 𝘑𝘢𝘷𝘢 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨. 𝘐 𝘩𝘢𝘷𝘦 𝘢 𝘨𝘳𝘦𝘢𝘵 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘯𝘦𝘸 𝘴𝘬𝘪𝘭𝘭𝘴 𝘢𝘯𝘥 𝘐'𝘮 𝘷𝘦𝘳𝘺 𝘦𝘹𝘤𝘪𝘵𝘦𝘥 𝘢𝘣𝘰𝘶𝘵 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘐'𝘮 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨!</p>
 <p align="center">💌 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒃𝒓𝒐𝒘𝒔𝒆 𝒕𝒉𝒆 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 💌</p>
 
 <div align="center">
@@ -20,6 +20,9 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+
 
           
           
