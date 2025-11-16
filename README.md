@@ -1,6 +1,11 @@
-
- <h2 align="center">𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅!🌎</h2>
-<p align="center">𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘔𝘢𝘵𝘩𝘦𝘶𝘴 𝘎𝘶𝘦𝘳𝘳𝘢, 𝘐'𝘮 20 𝘺𝘦𝘢𝘳𝘴 𝘰𝘭𝘥 𝘢𝘯𝘥 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 PUC-RS. 𝘐 𝘨𝘳𝘢𝘥𝘶𝘢𝘵𝘦𝘥 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘚𝘰𝘤𝘪𝘢𝘭 𝘖𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘺 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘪𝘯 𝘍𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘢𝘯𝘥 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘵𝘢𝘬𝘪𝘯𝘨 𝘱𝘢𝘳𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘎𝘦𝘳𝘢𝘤̧𝘢̃𝘰 𝘊𝘢𝘭𝘥𝘦𝘪𝘳𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮 𝘪𝘯 𝘑𝘢𝘷𝘢 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨. 𝘐 𝘩𝘢𝘷𝘦 𝘢 𝘨𝘳𝘦𝘢𝘵 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘯𝘦𝘸 𝘴𝘬𝘪𝘭𝘭𝘴 𝘢𝘯𝘥 𝘐'𝘮 𝘷𝘦𝘳𝘺 𝘦𝘹𝘤𝘪𝘵𝘦𝘥 𝘢𝘣𝘰𝘶𝘵 𝘦𝘷𝘦𝘳𝘺𝘵𝘩𝘪𝘯𝘨 𝘐'𝘮 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨!</p>
+<h2 align="center">𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅!🌎</h2>
+<p align="center">
+  Junior Fullstack Developer focused on building practical and well-structured applications. I work with <strong>React/TypeScript</strong>, <strong>Django/FastAPI</strong>, and <strong>Java Spring</strong>, always aiming for clean code and a solid understanding of the full development lifecycle.
+  <br /><br />
+  I have experience with <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, agile methods, and version control. I'm continuously learning, especially <strong>Docker</strong> and DevOps concepts, to grow as a more complete engineer.
+  <br /><br />
+  Here on GitHub, I share my progress, projects, and ideas as I evolve in the tech world.
+</p>
 <p align="center">💌 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒃𝒓𝒐𝒘𝒔𝒆 𝒕𝒉𝒆 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 💌</p>
 
 <div align="center">
